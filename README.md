@@ -45,6 +45,12 @@ Janela de Comercialização Ideal: O perfil mensal prova a existência de um cic
 
 Gatilho Climático: A forte correlação linear identificada valida que volumes de chuva acumulada abaixo do limiar histórico disparam quebras imediatas de produtividade por hectare, servindo como modelo preditivo para acionamento de seguros agrícolas.
 
+
+# Link da apresentação em video :
+https://youtu.be/nkhFirfU174
+
+
+
 Elasticidade Financeira: Em cenários de seca extrema regional, a escassez física de grãos atua como vetor inflacionário sobre a cotação balizada pelo indicador CEPEA.
 
 # Ética, Governança e LGPD
